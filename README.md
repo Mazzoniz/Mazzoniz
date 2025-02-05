@@ -38,9 +38,9 @@
 
 ### <h3 align="center">🌐 Conecte-se Comigo.</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/gustavo-mazoni" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+ <a href="https://www.linkedin.com/in/gustavo-mazoni" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
   <a href="mailto:mazoni.gustavo.s@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email">
   </a>
