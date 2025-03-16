@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Seja bem vindo, pode me chamar de Mazoni.</h1>
+<h1 align="center">Olá! Seja bem vindo aos meus projetos.</h1>
 
 <p align="center">
   Sou um <strong>Desenvolvedor</strong> fascinado por programação. 🚀
