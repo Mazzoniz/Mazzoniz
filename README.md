@@ -19,10 +19,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mazzoniz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzoniz&layout=compact&langs_count=8&theme=dark" />
-</div>
+![Mazzoniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazzoniz&show_icons=true&count_private=true&hide_title=true&theme=radical&border_radius=10)
 
 ---
 
