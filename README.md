@@ -20,6 +20,7 @@
 
 ### 📊 Estatísticas do GitHub
 ![Mazzoniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazzoniz&show_icons=true&count_private=true&hide_title=true&theme=radical&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzoniz&langs_count=10&layout=compact)
 
 ---
 
